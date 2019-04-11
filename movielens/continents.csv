@@ -1,0 +1,228 @@
+Country,Region
+Afghanistan ,ASIA (EX. NEAR EAST)         
+Bangladesh ,ASIA (EX. NEAR EAST)         
+Bhutan ,ASIA (EX. NEAR EAST)         
+Brunei ,ASIA (EX. NEAR EAST)         
+Burma ,ASIA (EX. NEAR EAST)         
+Cambodia ,ASIA (EX. NEAR EAST)         
+China ,ASIA (EX. NEAR EAST)         
+East Timor ,ASIA (EX. NEAR EAST)         
+Hong Kong ,ASIA (EX. NEAR EAST)         
+India ,ASIA (EX. NEAR EAST)         
+Indonesia ,ASIA (EX. NEAR EAST)         
+Iran ,ASIA (EX. NEAR EAST)         
+Japan ,ASIA (EX. NEAR EAST)         
+"Korea, North ",ASIA (EX. NEAR EAST)         
+"Korea, South ",ASIA (EX. NEAR EAST)         
+Laos ,ASIA (EX. NEAR EAST)         
+Macau ,ASIA (EX. NEAR EAST)         
+Malaysia ,ASIA (EX. NEAR EAST)         
+Maldives ,ASIA (EX. NEAR EAST)         
+Mongolia ,ASIA (EX. NEAR EAST)         
+Nepal ,ASIA (EX. NEAR EAST)         
+Pakistan ,ASIA (EX. NEAR EAST)         
+Philippines ,ASIA (EX. NEAR EAST)         
+Singapore ,ASIA (EX. NEAR EAST)         
+Sri Lanka ,ASIA (EX. NEAR EAST)         
+Taiwan ,ASIA (EX. NEAR EAST)         
+Thailand ,ASIA (EX. NEAR EAST)         
+Vietnam ,ASIA (EX. NEAR EAST)         
+Estonia ,BALTICS                            
+Latvia ,BALTICS                            
+Lithuania ,BALTICS                            
+Armenia ,C.W. OF IND. STATES 
+Azerbaijan ,C.W. OF IND. STATES 
+Belarus ,C.W. OF IND. STATES 
+Georgia ,C.W. OF IND. STATES 
+Kazakhstan ,C.W. OF IND. STATES 
+Kyrgyzstan ,C.W. OF IND. STATES 
+Moldova ,C.W. OF IND. STATES 
+Russia ,C.W. OF IND. STATES 
+Tajikistan ,C.W. OF IND. STATES 
+Turkmenistan ,C.W. OF IND. STATES 
+Ukraine ,C.W. OF IND. STATES 
+Uzbekistan ,C.W. OF IND. STATES 
+Albania ,EASTERN EUROPE                     
+Bosnia & Herzegovina ,EASTERN EUROPE                     
+Bulgaria ,EASTERN EUROPE                     
+Croatia ,EASTERN EUROPE                     
+Czech Republic ,EASTERN EUROPE                     
+Hungary ,EASTERN EUROPE                     
+Macedonia ,EASTERN EUROPE                     
+Poland ,EASTERN EUROPE                     
+Romania ,EASTERN EUROPE                     
+Serbia ,EASTERN EUROPE                     
+Slovakia ,EASTERN EUROPE                     
+Slovenia ,EASTERN EUROPE                     
+Anguilla ,LATIN AMER. & CARIB    
+Antigua & Barbuda ,LATIN AMER. & CARIB    
+Argentina ,LATIN AMER. & CARIB    
+Aruba ,LATIN AMER. & CARIB    
+"Bahamas, The ",LATIN AMER. & CARIB    
+Barbados ,LATIN AMER. & CARIB    
+Belize ,LATIN AMER. & CARIB    
+Bolivia ,LATIN AMER. & CARIB    
+Brazil ,LATIN AMER. & CARIB    
+British Virgin Is. ,LATIN AMER. & CARIB    
+Cayman Islands ,LATIN AMER. & CARIB    
+Chile ,LATIN AMER. & CARIB    
+Colombia ,LATIN AMER. & CARIB    
+Costa Rica ,LATIN AMER. & CARIB    
+Cuba ,LATIN AMER. & CARIB    
+Dominica ,LATIN AMER. & CARIB    
+Dominican Republic ,LATIN AMER. & CARIB    
+Ecuador ,LATIN AMER. & CARIB    
+El Salvador ,LATIN AMER. & CARIB    
+French Guiana ,LATIN AMER. & CARIB    
+Grenada ,LATIN AMER. & CARIB    
+Guadeloupe ,LATIN AMER. & CARIB    
+Guatemala ,LATIN AMER. & CARIB    
+Guyana ,LATIN AMER. & CARIB    
+Haiti ,LATIN AMER. & CARIB    
+Honduras ,LATIN AMER. & CARIB    
+Jamaica ,LATIN AMER. & CARIB    
+Martinique ,LATIN AMER. & CARIB    
+Mexico ,LATIN AMER. & CARIB    
+Montserrat ,LATIN AMER. & CARIB    
+Netherlands Antilles ,LATIN AMER. & CARIB    
+Nicaragua ,LATIN AMER. & CARIB    
+Panama ,LATIN AMER. & CARIB    
+Paraguay ,LATIN AMER. & CARIB    
+Peru ,LATIN AMER. & CARIB    
+Puerto Rico ,LATIN AMER. & CARIB    
+Saint Kitts & Nevis ,LATIN AMER. & CARIB    
+Saint Lucia ,LATIN AMER. & CARIB    
+Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    
+Suriname ,LATIN AMER. & CARIB    
+Trinidad & Tobago ,LATIN AMER. & CARIB    
+Turks & Caicos Is ,LATIN AMER. & CARIB    
+Uruguay ,LATIN AMER. & CARIB    
+Venezuela ,LATIN AMER. & CARIB    
+Virgin Islands ,LATIN AMER. & CARIB    
+Bahrain ,NEAR EAST                          
+Cyprus ,NEAR EAST                          
+Gaza Strip ,NEAR EAST                          
+Iraq ,NEAR EAST                          
+Israel ,NEAR EAST                          
+Jordan ,NEAR EAST                          
+Kuwait ,NEAR EAST                          
+Lebanon ,NEAR EAST                          
+Oman ,NEAR EAST                          
+Qatar ,NEAR EAST                          
+Saudi Arabia ,NEAR EAST                          
+Syria ,NEAR EAST                          
+Turkey ,NEAR EAST                          
+United Arab Emirates ,NEAR EAST                          
+West Bank ,NEAR EAST                          
+Yemen ,NEAR EAST                          
+Algeria ,NORTHERN AFRICA                    
+Egypt ,NORTHERN AFRICA                    
+Libya ,NORTHERN AFRICA                    
+Morocco ,NORTHERN AFRICA                    
+Tunisia ,NORTHERN AFRICA                    
+Western Sahara ,NORTHERN AFRICA                    
+Bermuda ,NORTHERN AMERICA                   
+Canada ,NORTHERN AMERICA                   
+Greenland ,NORTHERN AMERICA                   
+St Pierre & Miquelon ,NORTHERN AMERICA                   
+United States ,NORTHERN AMERICA                   
+American Samoa ,OCEANIA                            
+Australia ,OCEANIA                            
+Cook Islands ,OCEANIA                            
+Fiji ,OCEANIA                            
+French Polynesia ,OCEANIA                            
+Guam ,OCEANIA                            
+Kiribati ,OCEANIA                            
+Marshall Islands ,OCEANIA                            
+"Micronesia, Fed. St. ",OCEANIA                            
+Nauru ,OCEANIA                            
+New Caledonia ,OCEANIA                            
+New Zealand ,OCEANIA                            
+N. Mariana Islands ,OCEANIA                            
+Palau ,OCEANIA                            
+Papua New Guinea ,OCEANIA                            
+Samoa ,OCEANIA                            
+Solomon Islands ,OCEANIA                            
+Tonga ,OCEANIA                            
+Tuvalu ,OCEANIA                            
+Vanuatu ,OCEANIA                            
+Wallis and Futuna ,OCEANIA                            
+Angola ,SUB-SAHARAN AFRICA                 
+Benin ,SUB-SAHARAN AFRICA                 
+Botswana ,SUB-SAHARAN AFRICA                 
+Burkina Faso ,SUB-SAHARAN AFRICA                 
+Burundi ,SUB-SAHARAN AFRICA                 
+Cameroon ,SUB-SAHARAN AFRICA                 
+Cape Verde ,SUB-SAHARAN AFRICA                 
+Central African Rep. ,SUB-SAHARAN AFRICA                 
+Chad ,SUB-SAHARAN AFRICA                 
+Comoros ,SUB-SAHARAN AFRICA                 
+"Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 
+"Congo, Repub. of the ",SUB-SAHARAN AFRICA                 
+Cote d'Ivoire ,SUB-SAHARAN AFRICA                 
+Djibouti ,SUB-SAHARAN AFRICA                 
+Equatorial Guinea ,SUB-SAHARAN AFRICA                 
+Eritrea ,SUB-SAHARAN AFRICA                 
+Ethiopia ,SUB-SAHARAN AFRICA                 
+Gabon ,SUB-SAHARAN AFRICA                 
+"Gambia, The ",SUB-SAHARAN AFRICA                 
+Ghana ,SUB-SAHARAN AFRICA                 
+Guinea ,SUB-SAHARAN AFRICA                 
+Guinea-Bissau ,SUB-SAHARAN AFRICA                 
+Kenya ,SUB-SAHARAN AFRICA                 
+Lesotho ,SUB-SAHARAN AFRICA                 
+Liberia ,SUB-SAHARAN AFRICA                 
+Madagascar ,SUB-SAHARAN AFRICA                 
+Malawi ,SUB-SAHARAN AFRICA                 
+Mali ,SUB-SAHARAN AFRICA                 
+Mauritania ,SUB-SAHARAN AFRICA                 
+Mauritius ,SUB-SAHARAN AFRICA                 
+Mayotte ,SUB-SAHARAN AFRICA                 
+Mozambique ,SUB-SAHARAN AFRICA                 
+Namibia ,SUB-SAHARAN AFRICA                 
+Niger ,SUB-SAHARAN AFRICA                 
+Nigeria ,SUB-SAHARAN AFRICA                 
+Reunion ,SUB-SAHARAN AFRICA                 
+Rwanda ,SUB-SAHARAN AFRICA                 
+Saint Helena ,SUB-SAHARAN AFRICA                 
+Sao Tome & Principe ,SUB-SAHARAN AFRICA                 
+Senegal ,SUB-SAHARAN AFRICA                 
+Seychelles ,SUB-SAHARAN AFRICA                 
+Sierra Leone ,SUB-SAHARAN AFRICA                 
+Somalia ,SUB-SAHARAN AFRICA                 
+South Africa ,SUB-SAHARAN AFRICA                 
+Sudan ,SUB-SAHARAN AFRICA                 
+Swaziland ,SUB-SAHARAN AFRICA                 
+Tanzania ,SUB-SAHARAN AFRICA                 
+Togo ,SUB-SAHARAN AFRICA                 
+Uganda ,SUB-SAHARAN AFRICA                 
+Zambia ,SUB-SAHARAN AFRICA                 
+Zimbabwe ,SUB-SAHARAN AFRICA                 
+Andorra ,WESTERN EUROPE                     
+Austria ,WESTERN EUROPE                     
+Belgium ,WESTERN EUROPE                     
+Denmark ,WESTERN EUROPE                     
+Faroe Islands ,WESTERN EUROPE                     
+Finland ,WESTERN EUROPE                     
+France ,WESTERN EUROPE                     
+Germany ,WESTERN EUROPE                     
+Gibraltar ,WESTERN EUROPE                     
+Greece ,WESTERN EUROPE                     
+Guernsey ,WESTERN EUROPE                     
+Iceland ,WESTERN EUROPE                     
+Ireland ,WESTERN EUROPE                     
+Isle of Man ,WESTERN EUROPE                     
+Italy ,WESTERN EUROPE                     
+Jersey ,WESTERN EUROPE                     
+Liechtenstein ,WESTERN EUROPE                     
+Luxembourg ,WESTERN EUROPE                     
+Malta ,WESTERN EUROPE                     
+Monaco ,WESTERN EUROPE                     
+Netherlands ,WESTERN EUROPE                     
+Norway ,WESTERN EUROPE                     
+Portugal ,WESTERN EUROPE                     
+San Marino ,WESTERN EUROPE                     
+Spain ,WESTERN EUROPE                     
+Sweden ,WESTERN EUROPE                     
+Switzerland ,WESTERN EUROPE                     
+United Kingdom ,WESTERN EUROPE                     
